@@ -12,7 +12,7 @@ I’m an IT student passionate about leveraging technology to create impactful s
 ## 📈 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/Manish2911?ext=heatmap)
 
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={Manish2911}" alt="LeetCode Badges"/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MANISHDUTT224&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MANISHDUTT224&theme=tokyonight&hide_border=false)  
