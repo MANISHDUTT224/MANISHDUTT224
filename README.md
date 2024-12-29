@@ -13,7 +13,7 @@ I’m an IT student passionate about leveraging technology to create impactful s
 # 🚀 Competitive Programming Stats:
 
 ### LeetCode:
-- **Username**: `MANISHDUTT224`  
+- **Username**: `Manish2911`  
 - **Problems Solved**:  
   ![LeetCode Problems](https://leetcode-stats-api.herokuapp.com/Manish2911/problems-solved)  
 - **Contest Rating**:  
