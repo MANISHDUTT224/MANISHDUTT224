@@ -10,32 +10,6 @@ I’m an IT student passionate about leveraging technology to create impactful s
 
 ---
 
-# 🚀 Competitive Programming Stats:
-
-### LeetCode:
-- **Username**: `Manish2911`  
-- **Problems Solved**:  
-  ![LeetCode Problems](https://leetcode-stats-api.herokuapp.com/Manish2911/problems-solved)  
-- **Contest Rating**:  
-  ![LeetCode Rating](https://leetcode-stats-api.herokuapp.com/Manish2911/rating)  
-
-### HackerRank:
-- **Username**: `manishdutt234`  
-- **Badges**:  
-  *(Replace `API_URL` with your custom or official HackerRank API endpoint)*  
-  `![HackerRank Badges](https://api.example.com/hackerrank/badges/manishdutt234)`  
-- **Challenges Completed**:  
-  `![HackerRank Challenges](https://api.example.com/hackerrank/challenges/manishdutt234)`  
-
-### GeeksforGeeks:
-- **Username**: `manishsucor1`  
-- **Problems Solved**:  
-  *(Replace `API_URL` with your custom or official GFG API endpoint)*  
-  `![GeeksforGeeks Problems](https://api.example.com/gfg/problems-solved/manishsucor1)`  
-- **Coding Score**:  
-  `![GeeksforGeeks Score](https://api.example.com/gfg/coding-score/manishsucor1)`  
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MANISHDUTT224&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
