@@ -22,7 +22,8 @@ Hi there! 👋 I’m an IT student passionate about leveraging technology to cre
 ![](https://github-contributor-stats.vercel.app/api?username=MANISHDUTT224&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MANISHDUTT224&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MANISHDUTT224&title=Profile%20Views)
+
 
 
 
