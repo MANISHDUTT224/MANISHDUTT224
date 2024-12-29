@@ -9,7 +9,9 @@ I’m an IT student passionate about leveraging technology to create impactful s
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANISHDUTT224)  
 
 ---
-![](https://leetcard.Manish2911.cool/lapor?ext=heatmap)
+## 📈 LeetCode Stats
+![LeetCode Profile](https://leetcard.jacoblin.cool/Manish2911?ext=heatmap)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MANISHDUTT224&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
