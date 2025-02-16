@@ -43,5 +43,5 @@ I’m an IT student passionate about leveraging technology to create impactful s
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 # 🖥️ Profile Views:
-<!--![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MANISHDUTT224&title=Profile%20Views)-->
-![](https://komarev.com/ghpvc/?username=MANISHDUTT224)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MANISHDUTT224&title=Profile%20Views)
+<!-- ![](https://komarev.com/ghpvc/?username=MANISHDUTT224) -->
