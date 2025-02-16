@@ -37,7 +37,11 @@ I’m an IT student passionate about leveraging technology to create impactful s
 ![](https://github-contributor-stats.vercel.app/api?username=MANISHDUTT224&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 # 🖥️ Profile Views:
 <!--![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MANISHDUTT224&title=Profile%20Views)-->
 ![](https://komarev.com/ghpvc/?username=MANISHDUTT224)
