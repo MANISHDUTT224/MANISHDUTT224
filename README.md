@@ -1,8 +1,19 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" height="500" alt="animated hello">
+<br><br>
+## 🔹 Expertise:
+
+Full-Stack Development (MERN) – Crafting intuitive and scalable applications.
+
+AI & ML – Developing intelligent solutions for optimization and automation.
+
+Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
+
+Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
+
+SaaS & Tech Innovation – Driving digital transformation through impactful products.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" height="500" alt="animated hello">
 
-<br><br>
 
 <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 ## 🔹 Key Projects & Achievements:
@@ -22,17 +33,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANISHDUTT224)  
 
 ---
-## 🔹 Expertise:
 
-Full-Stack Development (MERN) – Crafting intuitive and scalable applications.
-
-AI & ML – Developing intelligent solutions for optimization and automation.
-
-Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
-
-Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
-
-SaaS & Tech Innovation – Driving digital transformation through impactful products.
 ## 📈 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/Manish2911?ext=heatmap)
 
