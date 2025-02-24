@@ -2,26 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manish+Dutt;" />
 </h1>
 
-##  💫 About Me:
 
-🚀 Aspiring Software Engineer | Full-Stack Development | AI & ML Enthusiast
-Passionate about building scalable applications and leveraging AI/ML to solve real-world problems.
-
-## 🔹 Expertise:
-
-Full-Stack Development (MERN) – Crafting intuitive and scalable applications.
-
-AI & ML – Developing intelligent solutions for optimization and automation.
-
-Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
-
-Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
-
-SaaS & Tech Innovation – Driving digital transformation through impactful products.
 
 ## 🔹 Key Projects & Achievements:
 
-✔ AI-driven ship routing & Indian Sign Language translation.
+✔ AI-driven ship routing & AI-based land measurement.
 
 ✔ Full-stack applications: Amazon clone, task management, blogging platforms.
 
@@ -36,6 +21,17 @@ SaaS & Tech Innovation – Driving digital transformation through impactful prod
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANISHDUTT224)  
 
 ---
+## 🔹 Expertise:
+
+Full-Stack Development (MERN) – Crafting intuitive and scalable applications.
+
+AI & ML – Developing intelligent solutions for optimization and automation.
+
+Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
+
+Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
+
+SaaS & Tech Innovation – Driving digital transformation through impactful products.
 ## 📈 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/Manish2911?ext=heatmap)
 
