@@ -10,14 +10,21 @@ Passionate about building scalable applications and leveraging AI/ML to solve re
 ## 🔹 Expertise:
 
 Full-Stack Development (MERN) – Crafting intuitive and scalable applications.
+
 AI & ML – Developing intelligent solutions for optimization and automation.
+
 Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
+
 Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
+
 SaaS & Tech Innovation – Driving digital transformation through impactful products.
 
 ## 🔹 Key Projects & Achievements:
+
 ✔ AI-driven ship routing & Indian Sign Language translation.
+
 ✔ Full-stack applications: Amazon clone, task management, blogging platforms.
+
 ✔ Certified in Machine Learning, Cybersecurity, JavaScript, and Python.
 
 🚀 Open to: Internships, tech collaborations, and SaaS development projects. Let's innovate together! 
