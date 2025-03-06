@@ -19,7 +19,7 @@ SaaS & Tech Innovation – Driving digital transformation through impactful prod
 
 ## 🔹 Key Projects & Achievements:
 
-✔ AI-driven ship routing & AI-based land measurement.
+✔  AI-based land measurement.
 
 ✔ Full-stack applications: Amazon clone, task management, blogging platforms.
 
