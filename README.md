@@ -73,7 +73,7 @@ SaaS & Tech Innovation – Driving digital transformation through impactful prod
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/Postgresql-%23ffffff.svg?style=for-the-badge&logo=Postgresql&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/Springboot-%23D00000.svg?style=for-the-badge&logo=Springboot&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-%233F4F75.svg?style=for-the-badge&logo=spring&logoColor=white)  
