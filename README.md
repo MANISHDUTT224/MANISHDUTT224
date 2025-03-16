@@ -9,9 +9,7 @@ AI & ML – Developing intelligent solutions for optimization and automation.
 
 Competitive Programming & DSA – Strengthening problem-solving skills through LeetCode & contests.
 
-Cloud & DevOps – Exploring cloud platforms and automation for efficient development.
 
-SaaS & Tech Innovation – Driving digital transformation through impactful products.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
