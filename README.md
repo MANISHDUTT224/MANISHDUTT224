@@ -38,7 +38,7 @@ Competitive Programming & DSA – Strengthening problem-solving skills through L
 
 <!--<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&animated=true" alt="LeetCode Badges"/>-->
 ##  GFG Stats
-[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/sakthikumar08)](https://www.geeksforgeeks.org/user/sakthikumar08/)
+[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/manishsucor1)](https://www.geeksforgeeks.org/user/manishsucor1/)
 
 
 # 📊 GitHub Stats:
