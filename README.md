@@ -23,6 +23,9 @@ Competitive Programming & DSA – Strengthening problem-solving skills through L
 
 ✔ Certified in Front-end Development,Machine Learning, Cybersecurity, JavaScript, and Python.
 
+✔ Reached Ultimate milestone in Google Cloud Arcade Facilitator programme.
+
+
 🚀 Open to: Internships, tech collaborations, and SaaS development projects. Let's innovate together! 
 
 ---
