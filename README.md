@@ -17,11 +17,11 @@ Competitive Programming & DSA – Strengthening problem-solving skills through L
 
 ## 🔹 Key Projects & Achievements:
 
-✔  AI-based land measurement.
+✔  AI-code debugger.
 
 ✔ Full-stack applications: Amazon clone, task management, blogging platforms.
 
-✔ Certified in Machine Learning, Cybersecurity, JavaScript, and Python.
+✔ Certified in Front-end Development,Machine Learning, Cybersecurity, JavaScript, and Python.
 
 🚀 Open to: Internships, tech collaborations, and SaaS development projects. Let's innovate together! 
 
